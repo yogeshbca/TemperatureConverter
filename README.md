@@ -1,8 +1,8 @@
-BharatIntern_TempratureCovert
+### BharatIntern_TempratureCovert
 Web Development Intern @BharatIntern
 
-Temperature Converter Project
-Introduction
+## Temperature Converter Project
+# Introduction
 Welcome to the Temperature Converter project! This is a simple web application developed by Yogesh T during the internship at Bharat Intern as a Web Developer. The project allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It includes a user-friendly interface and efficient temperature conversion logic.
 
 ## Features
@@ -20,6 +20,7 @@ To run this project locally, you need a modern web browser like Google Chrome, M
 Clone the repository to your local machine:
 
 git clone https://github.com/yogeshbca/TemperatureConverter
+
 Open the project folder in your code editor.
 
 Open the index.html file in your web browser to view the Temperature Converter.

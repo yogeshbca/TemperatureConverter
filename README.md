@@ -48,4 +48,4 @@ Intern Name: Yogesh T
 
 mail:yogiyogesht8131@gmail.com
 
-LinkedIn:http//www.linkedin.com/yogesh-t-prp
+LinkedIn:http//www.linkedin.com/in/yogesh-t-prp

@@ -6,14 +6,21 @@ Web Development Intern @BharatIntern
 Welcome to the Temperature Converter project! This is a simple web application developed by Yogesh T during the internship at Bharat Intern as a Web Developer. The project allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It includes a user-friendly interface and efficient temperature conversion logic.
 
 ## Features
-1.Converts temperatures between Celsius, Fahrenheit, and Kelvin.
-2.User-friendly and responsive web interface.
-3.Select the type of conversion you want to perform.
-4.Real-time temperature conversion updates.
-5.Clear button to reset all input fields.
-6.Developed using HTML, CSS, and JavaScript.
-6.Getting Started
-7.Prerequisites
+1. Converts temperatures between Celsius, Fahrenheit, and Kelvin.
+
+2. User-friendly and responsive web interface.
+
+3. Select the type of conversion you want to perform.
+
+4. Real-time temperature conversion updates.
+
+5. Clear button to reset all input fields.
+
+6. Developed using HTML, CSS, and JavaScript.
+ 
+6. Getting Started
+
+7. Prerequisites
 To run this project locally, you need a modern web browser like Google Chrome, Mozilla Firefox, or Microsoft Edge.
 
 ## Installation
